@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "잡다한 저장소"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "daltroid"
+subtitle                 : "이것 저것 마구마구"
+name                     : "dolmengeroid"
 description              : "An amazing website."
 url                      : "https://dolmengeroid.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -112,10 +112,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "dolmenge"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "까먹지 말고 메모!"
+  location         : "Goyang, South Korea"
   email            :
   links:
     - label: "Email"
